@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Lorvarz
-- 👀 I’m interested in AI, Physics simulations, and Games (or any combinations of the three)
-- 🌱 I’m currently learning advanced Python
-- 📫 How to reach me: emai me at lorvarz@icloud.com, putting the reason for the contact in the subject field
+Making artificial brains to reach computationally efficient AI. If you're interested, take a look [here](https://indico.cern.ch/event/1387540/contributions/6153412/).
+
+Dabbling in LLMs because they're awesome, along with computer graphics and physics simulations.
 
 <!---
 Lorvarz/Lorvarz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
